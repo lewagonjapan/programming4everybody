@@ -1,0 +1,3 @@
+# DON'T EDIT OR REMOVE THIS FILE
+language = "ruby"
+run = "echo You must specify some code to run!"
