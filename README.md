@@ -134,9 +134,10 @@ For each session, a private link to the meeting will be shared on the course Sla
 
 Can't wait to know more about programming? **[Apply to Le Wagon](http://www.lewagon.com/tokyo/apply)**, and learn how to build the app of your dreams with us! 🚀
 
-By completing this course, **you get a special 50,000¥ off the next Tokyo course tuition** (starting June 29th), and you can combine this discount with any other active scholarship! 🇵🇹 Applications are open for our next batches, check out the dates on our website and [get in touch with our admissions manager Fernando](https://app.slack.com/client/T0110B1KQP3/D011C474D2P).
+By completing this course, **you get a special 50,000¥ off the next Tokyo course tuition** (starting June 29th)! 🇯🇵
+Applications are open for our next batches, check out the dates on our website and [get in touch with Sylvain](https://app.slack.com/client/T0110B1KQP3/D011C474D2P).
 
-You can also follow us on [Meetup](https://www.meetup.com/Le-Wagon-Lisbon-Coding-Station), [Facebook](https://www.facebook.com/lewagonlisbon) and [Instagram](https://www.instagram.com/lewagonlisbon), and stay involved in our amazing community 🤩
+You can also follow us on [Meetup](https://www.meetup.com/Le-Wagon-Tokyo-Coding-Station/), [Facebook](https://www.facebook.com/lewagontokyo), [Instagram](https://www.instagram.com/lewagontokyo), [Twitter](https://twitter.com/LeWagonTokyo) or [LinkedIn](https://www.linkedin.com/showcase/18655908/) and stay involved in our amazing community 🤩
 
 ![](https://github.com/lewagonlisbon/programming4everybody/raw/master/images/lisbon.jpg)
 # programming4everybody
