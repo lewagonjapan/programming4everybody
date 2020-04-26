@@ -122,20 +122,23 @@ Our program has 10 lessons, following [Codecademy’s free Ruby track](https://w
 
 ## Typical session
 
-- _13h00-13h25_ (GMT+1) **Live session** on [Livestorm](https://app.livestorm.co/le-wagon-portugal) with Le Wagon's teachers showing lots of live-demos to help you understand the concepts using practical examples
-- _13h25-13h45_ **Q&A session** where you'll be able to ask the teachers any question you might have and share your screen with them for a live help
-- _13h45-?_ **Keep coding!** Use [the Slack workspace](https://programming4everybody.slack.com) to find a buddy and work with him, interact with other classmates, or just send a funny gif 🙈
+- _7:00-7:30pm JST_ **Live session** on Zoom with Le Wagon's teachers showing lots of live-demos to help you understand the concepts using practical examples
+- _7:30-8:00pm JST_ **Q&A session** where you'll be able to ask the teachers any question you might have for a live help
+- _8:00pm-?_ **Keep coding!** Use [the Slack workspace](https://le-wagon-tokyo.slack.com) to find a buddy and work with him, interact with other classmates, or just send a funny gif 🙈
 
-For each session, a private link to the meeting will be shared on the course Slack channel. The Livestorm meetings and Slack workspace are **private**, and only authorised participants can access them 🔒
+For each session, a private Zoom link will be shared on the course Slack channel. The Zoom meetings and Slack workspace are **private**, and only authorised participants can access them 🔒
 
-**N.B:** to keep the lecture as interactive as possible, if you share your screen with the rest of the participants, we ask you to do it for **no more than 2 minutes** per session, excluding any eventual extra presentation 🙋🏼‍♀️🙋🏽‍♂️
+## Office Hours
+
+Every **Tuesdays & Thursdays** and for the duration of the course, Le Wagon Tokyo teachers will be available on Slack for questions **from 6pm to 8pm JST.**
+Outside of this Office Hours schedule, you can still ask questions! We may not answer as quickly though ⏳
 
 ## Going further
 
 Can't wait to know more about programming? **[Apply to Le Wagon](http://www.lewagon.com/tokyo/apply)**, and learn how to build the app of your dreams with us! 🚀
 
 By completing this course, **you get a special 50,000¥ off the next Tokyo course tuition** (starting June 29th)! 🇯🇵
-Applications are open for our next batches, check out the dates on our website and [get in touch with Sylvain](https://app.slack.com/client/T0110B1KQP3/D011C474D2P).
+Applications are open for our next batches, check out the dates on our website or get in touch with Sylvain.
 
 You can also follow us on [Meetup](https://www.meetup.com/Le-Wagon-Tokyo-Coding-Station/), [Facebook](https://www.facebook.com/lewagontokyo), [Instagram](https://www.instagram.com/lewagontokyo), [Twitter](https://twitter.com/LeWagonTokyo) or [LinkedIn](https://www.linkedin.com/showcase/18655908/) and stay involved in our amazing community 🤩
 
