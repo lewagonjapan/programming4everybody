@@ -1,6 +1,6 @@
 ## Welcome!
 
-This repository contains all the files you'll see during the webinars of the course Programming for Everybody hosted by [Le Wagon](https://www.lewagon.com). Welcome aboard! 🎉
+This repository contains all the files you'll see during the webinars of the course Programming for Everybody hosted by [Le Wagon Tokyo](https://www.lewagon.com/tokyo). Welcome aboard! 🎉
 
 #### ⚠️ IMPORTANT
 
@@ -132,9 +132,9 @@ For each session, a private link to the meeting will be shared on the course Sla
 
 ## Going further
 
-Can't wait to know more about programming? **[Apply to Le Wagon](http://www.lewagon.com/lisbon/apply)**, and learn how to build the app of your dreams with us! 🚀
+Can't wait to know more about programming? **[Apply to Le Wagon](http://www.lewagon.com/tokyo/apply)**, and learn how to build the app of your dreams with us! 🚀
 
-By completing this course, **you get a special 10% off the next Lisbon course tuition**, and you can combine this discount with any other active scholarship! 🇵🇹 Applications are open for our next batches, check out the dates on our website and [get in touch with our admissions manager Fernando](https://app.slack.com/client/T0110B1KQP3/D011C474D2P).
+By completing this course, **you get a special 50,000¥ off the next Tokyo course tuition** (starting June 29th), and you can combine this discount with any other active scholarship! 🇵🇹 Applications are open for our next batches, check out the dates on our website and [get in touch with our admissions manager Fernando](https://app.slack.com/client/T0110B1KQP3/D011C474D2P).
 
 You can also follow us on [Meetup](https://www.meetup.com/Le-Wagon-Lisbon-Coding-Station), [Facebook](https://www.facebook.com/lewagonlisbon) and [Instagram](https://www.instagram.com/lewagonlisbon), and stay involved in our amazing community 🤩
 
