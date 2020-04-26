@@ -32,24 +32,14 @@ Each Ruby file you see in this repository will be filled by a teacher during the
 
 You can use a [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) to see and interact with the code we share every session.
 
-First, [create an account on Repl.it](https://repl.it/signup). Once logged-in, come back here and click this button 👉 [![Run on Repl.it](https://repl.it/badge/github/lewagonlisbon/programming4everybody)](https://repl.it/@lewagonlisbon/programming4everybody) to open this repository there, then click `fork` to save a copy in your personal REPLs collection.
+First, [create an account on Repl.it](https://repl.it/signup).
 
-![](https://github.com/lewagonlisbon/programming4everybody/raw/master/images/repl1.png)
-
-Now click on the file `README.md` to open it, and... wait a second, that's me! 🤖
-
-You can use the Ruby console on the right to run quick tests, or create more complex files in the `test` folder and execute them from the integrated shell.
+You can use the Ruby console on the right to run quick tests, or create more complex files and execute them from the integrated shell.
 If the shell window is not displaying automatically, open it manually or with the ⌘⇧S shortcut (see the first picture below), and run your test files from there with `ruby test/name_of_the_file.rb`.
 
 ![](https://github.com/lewagonlisbon/programming4everybody/raw/master/images/repl2.png)
 
 ![](https://github.com/lewagonlisbon/programming4everybody/raw/master/images/repl3.png)
-
-After a session ends, switch to the `Version Control` tab and click `Pull` to get the new files from the lecture.
-
-![](https://github.com/lewagonlisbon/programming4everybody/raw/master/images/repl4.png)
-
-**N.B:** if the pull command doesn't work, it's probably because you edited some files you shouldn't touch! 🛑 Check which ones under `Changed files or folders`, and if they don't belong to the `test` folder, make them look exactly as the ones on GitHub, then click `Pull` again. If this doesn't help either, just come back here and follow the instructions again to create a new copy ☝️
 
 ## General overview
 
