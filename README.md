@@ -6,7 +6,7 @@ This repository contains all the files you'll see during the webinars of the cou
 
 Any tool you see a teacher using during a live session is **free to use** and **optional** to this course. The applications we'll present are used by thousands of successful tech companies around the world (including us!), and we'll utilise them to show you how to work in a real development environment.
 
-If you don’t have any prior experience, please just follow the session, ask your eventual questions at the end of it, write and share your experience with your classmates on [the Slack workspace](https://programming4everybody.slack.com), and **don’t do anything else described here**. As explained during the program presentation, this course is just an extension of the [Codecademy Ruby track](https://www.codecademy.com/learn/learn-ruby), and you are not required to do anything more than following the meetings.
+If you don’t have any prior experience, please just follow the session, ask your eventual questions at the end of it, write and share your experience with your classmates on [the Slack workspace](https://le-wagon-tokyo.slack.com), and **don’t do anything else described here**. As explained during the program presentation, this course is just an extension of the [Codecademy Ruby track](https://www.codecademy.com/learn/learn-ruby), and you are not required to do anything more than following the meetings.
 
 ## Table of contents
 
