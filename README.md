@@ -16,6 +16,7 @@ If you don’t have any prior experience, please just follow the session, ask yo
   - [Git and Ruby](#git-and-ruby)
 - [General overview](#general-overview)
 - [Typical session](#typical-session)
+- [Office Hours](#office-hours)
 - [Going further](#going-further)
 
 ## Usage
@@ -135,9 +136,9 @@ Outside of this Office Hours schedule, you can still ask questions! We may not a
 
 ## Going further
 
-Can't wait to know more about programming? **[Apply to Le Wagon](http://www.lewagon.com/tokyo/apply)**, and learn how to build the app of your dreams with us! 🚀
+Can't wait to know more about programming? **[Apply to Le Wagon Tokyo](http://www.lewagon.com/tokyo/apply)**, and learn how to build the app of your dreams with us! 🚀
 
-By completing this course, **you get a special 50,000¥ off the next Tokyo course tuition** (starting June 29th)! 🇯🇵
+By completing this course, **you get a special 50,000¥ off the next Tokyo course tuition** starting June 29th! 🇯🇵
 Applications are open for our next batches, check out the dates on our website or get in touch with Sylvain.
 
 You can also follow us on [Meetup](https://www.meetup.com/Le-Wagon-Tokyo-Coding-Station/), [Facebook](https://www.facebook.com/lewagontokyo), [Instagram](https://www.instagram.com/lewagontokyo), [Twitter](https://twitter.com/LeWagonTokyo) or [LinkedIn](https://www.linkedin.com/showcase/18655908/) and stay involved in our amazing community 🤩
