@@ -1,4 +1,4 @@
-## Welcome!
+## Welcome to Programming for Evreybody - Season 1!
 
 This repository contains all the files you'll see during the webinars of the course Programming for Everybody hosted by [Le Wagon Tokyo](https://www.lewagon.com/tokyo). Welcome aboard! 🎉
 
@@ -13,7 +13,6 @@ If you don’t have any prior experience, please just follow the session, ask yo
 - [Usage](#usage)
 - [Setup](#setup)
   - [REPL](#repl)
-  - [Git and Ruby](#git-and-ruby)
 - [General overview](#general-overview)
 - [Typical session](#typical-session)
 - [Office Hours](#office-hours)
@@ -53,58 +52,6 @@ After a session ends, switch to the `Version Control` tab and click `Pull` to ge
 ![](https://github.com/lewagonlisbon/programming4everybody/raw/master/images/repl4.png)
 
 **N.B:** if the pull command doesn't work, it's probably because you edited some files you shouldn't touch! 🛑 Check which ones under `Changed files or folders`, and if they don't belong to the `test` folder, make them look exactly as the ones on GitHub, then click `Pull` again. If this doesn't help either, just come back here and follow the instructions again to create a new copy ☝️
-
-### Git and Ruby
-
-**ONLY** if you already have:
-
-- [Ruby](https://www.ruby-lang.org/en/documentation/installation) installed (type `ruby --version` in your terminal, it should give you a version >= 2.2)
-- [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed (`git --version` should be >= 1.7)
-- a [GitHub profile](https://github.com/join)
-- some basic knowledge of programming
-
-you can clone this repository on your computer and fetch the new changes after each session.
-
-First, fork (copy) this repository to your profile.
-
-![](https://github.com/lewagonlisbon/programming4everybody/raw/master/images/fork.png)
-
-Then, open your terminal and run the following commands one at a time (always read the comments carefully, they're there for a reason! 👀):
-
-```sh
-# TODO: change with your GitHub username
-GITHUB_USERNAME="your-github-username"
-
-# 1. Create a new folder where to keep your personal projects:
-[ ! -d ~/code ] && mkdir ~/code
-[ ! -d ~/code/$GITHUB_USERNAME ] && mkdir ~/code/$GITHUB_USERNAME
-cd ~/code/$GITHUB_USERNAME
-
-# 2. Clone the repository from your GitHub and connect to @lewagonlisbon's one (run JUST ONCE):
-git clone https://github.com/$GITHUB_USERNAME/programming4everybody.git
-cd programming4everybody
-git remote add upstream https://github.com/lewagonlisbon/programming4everybody.git
-git fetch --all
-git reset --hard upstream/master
-
-# 3. Open the repository in your favourite editor:
-atom . # or `open -a Atom .`
-subl . # or `open -a "Sublime Text" .`
-code . # or `open -a "Visual Studio Code" .`
-```
-
-Check our code from the webinars in your editor and play around in the `test` folder. You can run your test files in the terminal with `ruby test/a_test_file.rb`, or type `irb` to open an interactive Ruby console.
-
-After each session, get the latest updates with:
-
-```sh
-git fetch --all
-git reset --hard upstream/master
-```
-
-> **Bonus**: if you use [Atom](https://atom.io), you can install the [Teletype package](https://teletype.atom.io) and interact with our code when you ask for a live help! 🤓
->
-> ![](https://blog.atom.io/img/posts/teletype/code-together.gif)
 
 ## General overview
 
