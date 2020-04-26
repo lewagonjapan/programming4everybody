@@ -24,8 +24,6 @@ Please star the repository, or just bookmark the page in your favourite browser.
 
 Each Ruby file you see in this repository will be filled by a teacher during the corresponding session. In the [`slides`](https://github.com/lewagonjapan/programming4everybody/tree/master/slides) folder you can see and download the slides we share during our lessons.
 
-You'll also find a `test` folder in this repository. **Don't edit or delete any file outside this folder**: it's important to always keep your personal experiments in a separate place! 🧪
-
 ## Setup
 
 **N.B:** This is a free online learning series, and our teachers **won't** be able to help you with your computer configuration. If you are just moving your first steps (you don't know Git, Ruby, what a terminal is, or any of the tools we are using), please just watch the videos and, if you feel confident enough, use a REPL as described below. Want to learn to configure your computer like a pro? **[Do it with us!](#going-further)**
