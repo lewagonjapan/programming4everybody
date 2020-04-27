@@ -60,6 +60,7 @@ Schedule for each module is shown below👇 Make sure you complete the respectiv
 - _7:30-8:00pm JST_ **Q&A session** where you'll be able to ask the teachers any question you might have for a live help
 - _8:00pm-?_ **Keep coding!** Use [the Slack workspace](https://le-wagon-tokyo.slack.com) to find a buddy and work with him, interact with other classmates, or just send a funny gif 🙈
 
+Some session might last longer than one hour depending on the Q&A part.
 For each session, a private Zoom link will be shared on the course Slack channel. The Zoom meetings and Slack workspace are **private**, and only authorised participants can access them 🔒
 
 ## Office Hours
