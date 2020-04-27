@@ -37,24 +37,22 @@ First, [create an account on Repl.it](https://repl.it/signup).
 You can use the Ruby console on the right to run quick tests, or create more complex files and execute them from the integrated shell.
 If the shell window is not displaying automatically, open it manually or with the ⌘⇧S shortcut (see the first picture below), and run your test files from there with `ruby test/name_of_the_file.rb`.
 
-![](https://github.com/lewagonlisbon/programming4everybody/raw/master/images/repl2.png)
+![](https://github.com/lewagonjapan/programming4everybody/raw/master/images/repl2.png)
 
-![](https://github.com/lewagonlisbon/programming4everybody/raw/master/images/repl3.png)
+![](https://github.com/lewagonjapan/programming4everybody/raw/master/images/repl3.png)
 
 ## General overview
 
-Our program has 10 lessons, following [Codecademy’s free Ruby track](https://www.codecademy.com/learn/learn-ruby):
+Our program has 7 lessons and we follow [Codecademy’s free Ruby track](https://www.codecademy.com/learn/learn-ruby).
+Schedule for each module is shown below👇 Make sure you complete the respective modules **before** each session:
 
-1. [`Introduction to Ruby`](https://github.com/lewagonlisbon/programming4everybody/blob/master/01_introduction.rb) Wednesday, April 8th
-2. [`Control flow in Ruby`](https://github.com/lewagonlisbon/programming4everybody/blob/master/02_control_flow.rb) Friday, April 10th
-3. [`Looping with Ruby`](https://github.com/lewagonlisbon/programming4everybody/blob/master/03_looping.rb) Monday, April 13th
-4. [`Arrays and Hashes`](https://github.com/lewagonlisbon/programming4everybody/blob/master/04_arrays_and_hashes.rb) Wednesday, April 15th
-5. [`Blocks and Sorting`](https://github.com/lewagonlisbon/programming4everybody/blob/master/05_methods_and_blocks.rb) Friday, April 17th
-6. [`Hashes and Symbols`](https://github.com/lewagonlisbon/programming4everybody/blob/master/06_hashes_and_symbols.rb) Monday, April 20th
-7. [`Refactoring`](https://github.com/lewagonlisbon/programming4everybody/blob/master/07_refactoring.rb) Wednesday, April 22nd
-8. [`Procs and Lambdas`](https://github.com/lewagonlisbon/programming4everybody/blob/master/08_procs_and_lambdas.rb) Friday, April 24th
-9. [`Object-Oriented Programming, Part 1`](https://github.com/lewagonlisbon/programming4everybody/blob/master/09_oop.rb) Monday, April 27th
-10. [`Object-Oriented Programming, Part 2`](https://github.com/lewagonlisbon/programming4everybody/blob/master/10_oop.rb) Wednesday, April 29th
+1. [`Introduction to Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/master/01_introduction.rb) Monday, April 27th
+2. [`Control flow in Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/master/02_control_flow.rb) & [`Looping with Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/master/03_looping.rb) Wednesday, April 29th
+3. [`Arrays and Hashes`](https://github.com/lewagonjapan/programming4everybody/blob/master/04_arrays_and_hashes.rb) & [`Blocks and Sorting`](https://github.com/lewagonjapan/programming4everybody/blob/master/05_methods_and_blocks.rb) Friday, May 1st
+4. [`Hashes and Symbols`](https://github.com/lewagonjapan/programming4everybody/blob/master/06_hashes_and_symbols.rb) Monday, May 4th
+5. [`Refactoring`](https://github.com/lewagonjapan/programming4everybody/blob/master/07_refactoring.rb) & [`Procs and Lambdas`](https://github.com/lewagonjapan/programming4everybody/blob/master/08_procs_and_lambdas.rb) Wednesday, May 6th
+6. [`Object-Oriented Programming, Part 1`](https://github.com/lewagonjapan/programming4everybody/blob/master/09_oop.rb) Friday, May 8th
+7. [`Object-Oriented Programming, Part 2`](https://github.com/lewagonjapan/programming4everybody/blob/master/10_oop.rb) Monday, May 11th
 
 ## Typical session
 
