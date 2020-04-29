@@ -1,6 +1,6 @@
 ### Looping with Ruby
 
-## Loops you should know, but not often used:
+## Loops you should know, but not often used in Ruby:
 
 # for
 for i in 1..10

@@ -1,6 +1,6 @@
 ### Controling Ruby Flow
 
-## Be careful, = and == are noto the same!!
+## Be careful, = and == are not the same!!
 # = is the assignment operator
 # == checks equality
 
