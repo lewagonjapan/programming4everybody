@@ -168,6 +168,8 @@ when 'display'
   # hash.each do |key, value|
   cart.each do |name, quantity|
     puts "#{name} -> #{quantity}qty"
+
+    # build html for the cart item
   end
 else
   puts "Sorry I don't know that option."
@@ -175,9 +177,11 @@ end
 
 # make the market loop over the choices
 # check the quantity of the items before you add a new item
+# when you delete, put the items back in the store
 # make sure an item is in the cart before you delete it
 
-# TOUGH
+
+# NEXT LEVEL - DIFFICULT
 # store the items in the market as hashes
 # market_items = {
 #   carrots: { quantity: 100, price: 10 }
