@@ -22,7 +22,7 @@ If you don’t have any prior experience, please just follow the session, ask yo
 
 Please star the repository, or just bookmark the page in your favourite browser.
 
-Each Ruby file you see in this repository will be filled by a teacher during the corresponding session. In the [`slides`](https://github.com/lewagonjapan/programming4everybody/tree/master/slides) folder you can see and download the slides we share during our lessons.
+Each Ruby file you see in this repository will be filled by a teacher during the corresponding session. In the [`slides`](https://github.com/lewagonjapan/programming4everybody/tree/july-2020/slides) folder you can see and download the slides we share during our lessons.
 
 ## Setup
 
@@ -46,13 +46,13 @@ If the shell window is not displaying automatically, open it manually or with th
 Our program has 7 lessons and we follow [Codecademy’s free Ruby track](https://www.codecademy.com/learn/learn-ruby).
 Schedule for each module is shown below👇 Make sure you complete the respective modules **before** each session:
 
-1. [`Introduction to Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/master/01_introduction.rb) Monday, April 27th
-2. [`Control flow in Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/master/02_control_flow.rb) & [`Looping with Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/master/03_looping.rb) Wednesday, April 29th
-3. [`Arrays and Hashes`](https://github.com/lewagonjapan/programming4everybody/blob/master/04_arrays_and_hashes.rb) & [`Blocks and Sorting`](https://github.com/lewagonjapan/programming4everybody/blob/master/05_methods_and_blocks.rb) Friday, May 1st
-4. [`Hashes and Symbols`](https://github.com/lewagonjapan/programming4everybody/blob/master/06_hashes_and_symbols.rb) Monday, May 4th
-5. [`Refactoring`](https://github.com/lewagonjapan/programming4everybody/blob/master/07_refactoring.rb) & [`Procs and Lambdas`](https://github.com/lewagonjapan/programming4everybody/blob/master/08_procs_and_lambdas.rb) Wednesday, May 6th
-6. [`Object-Oriented Programming, Part 1`](https://github.com/lewagonjapan/programming4everybody/blob/master/09_oop.rb) Friday, May 8th
-7. [`Object-Oriented Programming, Part 2`](https://github.com/lewagonjapan/programming4everybody/blob/master/10_oop.rb) Monday, May 11th
+1. [`Introduction to Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/master/01_introduction.rb) Monday, July 20th
+2. [`Control flow in Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/master/02_control_flow.rb) & [`Looping with Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/master/03_looping.rb) Wednesday, July 22nd
+3. [`Arrays and Hashes`](https://github.com/lewagonjapan/programming4everybody/blob/master/04_arrays_and_hashes.rb) & [`Blocks and Sorting`](https://github.com/lewagonjapan/programming4everybody/blob/master/05_methods_and_blocks.rb) Friday, July 24th
+4. [`Hashes and Symbols`](https://github.com/lewagonjapan/programming4everybody/blob/master/06_hashes_and_symbols.rb) Monday, July 27th
+5. [`Refactoring`](https://github.com/lewagonjapan/programming4everybody/blob/master/07_refactoring.rb) & [`Procs and Lambdas`](https://github.com/lewagonjapan/programming4everybody/blob/master/08_procs_and_lambdas.rb) Wednesday, July 29th
+6. [`Object-Oriented Programming, Part 1`](https://github.com/lewagonjapan/programming4everybody/blob/master/09_oop.rb) Friday, July 31st
+7. [`Object-Oriented Programming, Part 2`](https://github.com/lewagonjapan/programming4everybody/blob/master/10_oop.rb) Monday, August 3rd
 
 ## Typical session
 
@@ -63,16 +63,17 @@ Schedule for each module is shown below👇 Make sure you complete the respectiv
 Some session might last longer than one hour depending on the Q&A part.
 For each session, a private Zoom link will be shared on the course Slack channel. The Zoom meetings and Slack workspace are **private**, and only authorised participants can access them 🔒
 
-## Office Hours
+## Q&A Support
 
-Every **Tuesdays & Thursdays** and for the duration of the course, Le Wagon Tokyo teachers will be available on Slack for questions **from 6pm to 8pm JST.**
-Outside of this Office Hours schedule, you can still ask questions! We may not answer as quickly though ⏳
+Outside of this webinar schedule, you can still ask questions!
+The **#codecademy-questions** Slack channel is dedicated to that. Don't hesitate to post your own quesstions and help others. This is a collaborative work!
 
 ## Going further
 
 Can't wait to know more about programming? **[Apply to Le Wagon Tokyo](http://www.lewagon.com/tokyo/apply)**, and learn how to build the app of your dreams with us! 🚀
 
-By completing this course, **you get a special 50,000¥ off the next Tokyo course tuition** starting June 29th! 🇯🇵
+By completing this course, **you get a special 50,000¥ off the next Tokyo courses tuition** starting September 26th (part-time) and September 28th (full-time)! 🇯🇵
+Note that this special discount can't be combined with our regular early-bird discount.
 Applications are open for our next batches, check out the dates on our website or get in touch with Sylvain.
 
 You can also follow us on [Meetup](https://www.meetup.com/Le-Wagon-Tokyo-Coding-Station/), [Facebook](https://www.facebook.com/lewagontokyo), [Instagram](https://www.instagram.com/lewagontokyo), [Twitter](https://twitter.com/LeWagonTokyo) or [LinkedIn](https://www.linkedin.com/showcase/18655908/) and stay involved in our amazing community 🤩
