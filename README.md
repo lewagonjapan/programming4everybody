@@ -47,7 +47,7 @@ Our program has 7 lessons and we follow [Codecademy’s free Ruby track](https:/
 Schedule for each module is shown below👇 Make sure you complete the respective modules **before** each session:
 
 1. [`Introduction to Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/july-2020/01_introduction.rb) Monday, July 20th
-2. [`Control flow in Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/master/02_control_flow.rb) & [`Looping with Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/master/03_looping.rb) Wednesday, July 22nd
+2. [`Control flow in Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/july-2020/02_control_flow.rb) & [`Looping with Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/july-2020/03_looping.rb) Wednesday, July 22nd
 3. [`Arrays and Hashes`](https://github.com/lewagonjapan/programming4everybody/blob/master/04_arrays_and_hashes.rb) & [`Blocks and Sorting`](https://github.com/lewagonjapan/programming4everybody/blob/master/05_methods_and_blocks.rb) Friday, July 24th
 4. [`Hashes and Symbols`](https://github.com/lewagonjapan/programming4everybody/blob/master/06_hashes_and_symbols.rb) Monday, July 27th
 5. [`Refactoring`](https://github.com/lewagonjapan/programming4everybody/blob/master/07_refactoring.rb) & [`Procs and Lambdas`](https://github.com/lewagonjapan/programming4everybody/blob/master/08_procs_and_lambdas.rb) Wednesday, July 29th
