@@ -60,12 +60,12 @@ On the first session, make sure that you update your display name to your **real
 Our program has 6 lessons and we follow [Codecademy’s free Ruby track](https://www.codecademy.com/learn/learn-ruby).
 Schedule for each module is shown below👇 Make sure you complete the respective modules **before** each session:
 
-1. [`Introduction to Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/master/01_introduction.rb) Tusday, October 27th
-2. [`Control flow in Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/master/02_control_flow.rb) & [`Looping with Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/master/03_looping.rb) Thursday, October 29th
-3. [`Arrays and Hashes`](https://github.com/lewagonjapan/programming4everybody/blob/master/04_arrays_and_hashes.rb) & [`Blocks and Sorting`](https://github.com/lewagonjapan/programming4everybody/blob/master/05_methods_and_blocks.rb) Tuesday, November 3rd
-4. [`Hashes and Symbols`](https://github.com/lewagonjapan/programming4everybody/blob/master/06_hashes_and_symbols.rb) Thursday, November 5th
-5. [`Refactoring`](https://github.com/lewagonjapan/programming4everybody/blob/master/07_refactoring.rb) & [`Procs and Lambdas`](https://github.com/lewagonjapan/programming4everybody/blob/master/08_procs_and_lambdas.rb) Tuesday, November 10th
-6. [`Object-Oriented Programming, Part 1`](https://github.com/lewagonjapan/programming4everybody/blob/master/09_oop.rb) & [`Object-Oriented Programming, Part 2`](https://github.com/lewagonjapan/programming4everybody/blob/master/10_oop.rb) Thursday, November 12th
+1. [`Introduction to Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/october-2020/01_introduction.rb) Tuesday, October 27th
+2. [`Control flow in Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/october-2020/02_control_flow.rb) & [`Looping with Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/october-2020/03_looping.rb) Thursday, October 29th
+3. [`Arrays and Hashes`](https://github.com/lewagonjapan/programming4everybody/blob/october-2020/04_arrays_and_hashes.rb) & [`Blocks and Sorting`](https://github.com/lewagonjapan/programming4everybody/blob/october-2020/05_methods_and_blocks.rb) Tuesday, November 3rd
+4. [`Hashes and Symbols`](https://github.com/lewagonjapan/programming4everybody/blob/october-2020/06_hashes_and_symbols.rb) Thursday, November 5th
+5. [`Refactoring`](https://github.com/lewagonjapan/programming4everybody/blob/october-2020/07_refactoring.rb) & [`Procs and Lambdas`](https://github.com/lewagonjapan/programming4everybody/blob/october-2020/08_procs_and_lambdas.rb) Tuesday, November 10th
+6. [`Object-Oriented Programming, Part 1`](https://github.com/lewagonjapan/programming4everybody/blob/october-2020/09_oop.rb) & [`Object-Oriented Programming, Part 2`](https://github.com/lewagonjapan/programming4everybody/blob/october-2020/10_oop.rb) Thursday, November 12th
 
 ## Typical session
 
@@ -94,6 +94,7 @@ After the last lecture on Thursday, November 12th, we will ask you to submit you
 Can't wait to know more about programming? **[Apply to Le Wagon Tokyo](http://www.lewagon.com/tokyo/apply)**, and learn how to build the app of your dreams with us! 🚀
 
 By completing this course, **you get a special 50,000¥ off the next Tokyo courses tuition** starting on January 11th, 2021 for our **full-time** bootcamp, and March 27th, 2021 for our **part-time** bootcamp! 🇯🇵
+
 Applications are open for our next batches, check out the dates on [our website](http://www.lewagon.com/tokyo) or get in touch with Sylvain on Slack.
 
 You can also follow us on [Meetup](https://www.meetup.com/Le-Wagon-Tokyo-Coding-Station/), [Facebook](https://www.facebook.com/lewagontokyo), [Instagram](https://www.instagram.com/lewagontokyo), [Twitter](https://twitter.com/LeWagonTokyo) or [LinkedIn](https://www.linkedin.com/showcase/18655908/) and stay involved in our amazing community 🤩
