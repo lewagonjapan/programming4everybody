@@ -25,7 +25,7 @@ If you don’t have any prior experience, please just follow the session, ask yo
 
 Please star the repository, or just bookmark the page in your favourite browser.
 
-Each Ruby file you see in this repository will be filled by a teacher during the corresponding session. In the [`slides`](https://github.com/lewagonjapan/programming4everybody/tree/master/slides) folder you can see and download the slides we share during our lessons.
+Each Ruby file you see in this repository will be filled by a teacher during the corresponding session. In the [`slides`](https://github.com/lewagonjapan/programming4everybody/tree/october-2020/slides) folder you can see and download the slides we share during our lessons.
 
 ## Setup
 
