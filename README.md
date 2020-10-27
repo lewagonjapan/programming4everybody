@@ -1,4 +1,4 @@
-## Welcome to Programming for Evreybody - Season 1!
+## Welcome to Programming for Evreybody - Season 3!
 
 This repository contains all the files you'll see during the webinars of the course Programming for Everybody hosted by [Le Wagon Tokyo](https://www.lewagon.com/tokyo). Welcome aboard! 🎉
 
@@ -13,9 +13,12 @@ If you don’t have any prior experience, please just follow the session, ask yo
 - [Usage](#usage)
 - [Setup](#setup)
   - [REPL](#repl)
+  - [Codecademy](#codecademy)
+  - [ZOOM](#zoom)
 - [General overview](#general-overview)
 - [Typical session](#typical-session)
-- [Office Hours](#office-hours)
+- [Asking Questions](#asking-questions)
+- [Certificate](#certificate)
 - [Going further](#going-further)
 
 ## Usage
@@ -41,18 +44,28 @@ If the shell window is not displaying automatically, open it manually or with th
 
 ![](https://github.com/lewagonjapan/programming4everybody/raw/master/images/repl3.png)
 
+### Codecademy
+
+First, create an account on [Codecademy](http://codecademy.com).
+
+Throughout the webinar series, we will be following this [Codecademy Ruby track](https://www.codecademy.com/learn/learn-ruby). We strongly encourage you to complete the specific module **before** each session.
+
+### ZOOM
+
+On the first session, make sure that you update your display name to your **real name**. We will be using this to confirm your attendance throughout the webinar series.
+
+
 ## General overview
 
-Our program has 7 lessons and we follow [Codecademy’s free Ruby track](https://www.codecademy.com/learn/learn-ruby).
+Our program has 6 lessons and we follow [Codecademy’s free Ruby track](https://www.codecademy.com/learn/learn-ruby).
 Schedule for each module is shown below👇 Make sure you complete the respective modules **before** each session:
 
-1. [`Introduction to Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/master/01_introduction.rb) Monday, April 27th
-2. [`Control flow in Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/master/02_control_flow.rb) & [`Looping with Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/master/03_looping.rb) Wednesday, April 29th
-3. [`Arrays and Hashes`](https://github.com/lewagonjapan/programming4everybody/blob/master/04_arrays_and_hashes.rb) & [`Blocks and Sorting`](https://github.com/lewagonjapan/programming4everybody/blob/master/05_methods_and_blocks.rb) Friday, May 1st
-4. [`Hashes and Symbols`](https://github.com/lewagonjapan/programming4everybody/blob/master/06_hashes_and_symbols.rb) Monday, May 4th
-5. [`Refactoring`](https://github.com/lewagonjapan/programming4everybody/blob/master/07_refactoring.rb) & [`Procs and Lambdas`](https://github.com/lewagonjapan/programming4everybody/blob/master/08_procs_and_lambdas.rb) Wednesday, May 6th
-6. [`Object-Oriented Programming, Part 1`](https://github.com/lewagonjapan/programming4everybody/blob/master/09_oop.rb) Friday, May 8th
-7. [`Object-Oriented Programming, Part 2`](https://github.com/lewagonjapan/programming4everybody/blob/master/10_oop.rb) Monday, May 11th
+1. [`Introduction to Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/master/01_introduction.rb) Tusday, October 27th
+2. [`Control flow in Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/master/02_control_flow.rb) & [`Looping with Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/master/03_looping.rb) Thursday, October 29th
+3. [`Arrays and Hashes`](https://github.com/lewagonjapan/programming4everybody/blob/master/04_arrays_and_hashes.rb) & [`Blocks and Sorting`](https://github.com/lewagonjapan/programming4everybody/blob/master/05_methods_and_blocks.rb) Tuesday, November 3rd
+4. [`Hashes and Symbols`](https://github.com/lewagonjapan/programming4everybody/blob/master/06_hashes_and_symbols.rb) Thursday, November 5th
+5. [`Refactoring`](https://github.com/lewagonjapan/programming4everybody/blob/master/07_refactoring.rb) & [`Procs and Lambdas`](https://github.com/lewagonjapan/programming4everybody/blob/master/08_procs_and_lambdas.rb) Tuesday, November 10th
+6. [`Object-Oriented Programming, Part 1`](https://github.com/lewagonjapan/programming4everybody/blob/master/09_oop.rb) & [`Object-Oriented Programming, Part 2`](https://github.com/lewagonjapan/programming4everybody/blob/master/10_oop.rb) Thursday, November 12th
 
 ## Typical session
 
@@ -63,17 +76,25 @@ Schedule for each module is shown below👇 Make sure you complete the respectiv
 Some session might last longer than one hour depending on the Q&A part.
 For each session, a private Zoom link will be shared on the course Slack channel. The Zoom meetings and Slack workspace are **private**, and only authorised participants can access them 🔒
 
-## Office Hours
+## Asking Questions
 
-Every **Tuesdays & Thursdays** and for the duration of the course, Le Wagon Tokyo teachers will be available on Slack for questions **from 6pm to 8pm JST.**
-Outside of this Office Hours schedule, you can still ask questions! We may not answer as quickly though ⏳
+The most successful students during our previous sessions asked **a lot** of questions!
+For that purpose, we set up a **#codecademy-questions** channel on Slack - Don't hesitate to use it 😉
+
+## Certificate
+
+We will be distributing a certificate of completion to those who:
+- Attend **ALL** six live sessions from start to finish
+- Complete **100%** of the Codecademy track
+
+After the last lecture on Thursday, November 12th, we will ask you to submit your Codecademy username to confirm completion of the Ruby track.
 
 ## Going further
 
 Can't wait to know more about programming? **[Apply to Le Wagon Tokyo](http://www.lewagon.com/tokyo/apply)**, and learn how to build the app of your dreams with us! 🚀
 
-By completing this course, **you get a special 50,000¥ off the next Tokyo course tuition** starting June 29th! 🇯🇵
-Applications are open for our next batches, check out the dates on our website or get in touch with Sylvain.
+By completing this course, **you get a special 50,000¥ off the next Tokyo courses tuition** starting on January 11th, 2021 for our **full-time** bootcamp, and March 27th, 2021 for our **part-time** bootcamp! 🇯🇵
+Applications are open for our next batches, check out the dates on [our website](http://www.lewagon.com/tokyo) or get in touch with Sylvain on Slack.
 
 You can also follow us on [Meetup](https://www.meetup.com/Le-Wagon-Tokyo-Coding-Station/), [Facebook](https://www.facebook.com/lewagontokyo), [Instagram](https://www.instagram.com/lewagontokyo), [Twitter](https://twitter.com/LeWagonTokyo) or [LinkedIn](https://www.linkedin.com/showcase/18655908/) and stay involved in our amazing community 🤩
 
