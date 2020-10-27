@@ -29,7 +29,7 @@ Each Ruby file you see in this repository will be filled by a teacher during the
 
 ## Setup
 
-**N.B:** This is a free online learning series, and our teachers **won't** be able to help you with your computer configuration. If you are just moving your first steps (you don't know Git, Ruby, what a terminal is, or any of the tools we are using), please just watch the videos and, if you feel confident enough, use a REPL as described below. Want to learn to configure your computer like a pro? **[Do it with us!](#going-further)**
+**N.B:** This is a free online learning series, and our teachers **won't** be able to help you with your computer configuration. If you are just moving your first steps (you don't know Git, Ruby, what a terminal is, or any of the tools we are using), please just follow the lectures and, if you feel confident enough, use a REPL as described below. Want to learn to configure your computer like a pro? **[Do it with us!](#going-further)**
 
 ### REPL
 
@@ -69,9 +69,9 @@ Schedule for each module is shown below👇 Make sure you complete the respectiv
 
 ## Typical session
 
-- _7:00-7:30pm JST_ **Live session** on Zoom with Le Wagon's teachers showing lots of live-demos to help you understand the concepts using practical examples
-- _7:30-8:00pm JST_ **Q&A session** where you'll be able to ask the teachers any question you might have for a live help
-- _8:00pm-?_ **Keep coding!** Use [the Slack workspace](https://le-wagon-tokyo.slack.com) to find a buddy and work with him, interact with other classmates, or just send a funny gif 🙈
+- _7:00-8:00pm JST_ **Live session** on Zoom with Le Wagon's teachers showing lots of live-demos to help you understand the concepts using practical examples
+- _8:00-8:15pm JST_ **Q&A session** where you'll be able to ask the teachers any question you might have for a live help
+- _8:15pm-?_ **Keep coding!** Use [the Slack workspace](https://le-wagon-tokyo.slack.com) to find a buddy and work with him, interact with other classmates, or just send a funny gif 🙈
 
 Some session might last longer than one hour depending on the Q&A part.
 For each session, a private Zoom link will be shared on the course Slack channel. The Zoom meetings and Slack workspace are **private**, and only authorised participants can access them 🔒
