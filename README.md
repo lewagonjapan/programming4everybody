@@ -15,7 +15,8 @@ If you don’t have any prior experience, please just follow the session, ask yo
   - [REPL](#repl)
 - [General overview](#general-overview)
 - [Typical session](#typical-session)
-- [Office Hours](#office-hours)
+- [Asking Questions](#asking-questions)
+- [Certificate](#certificate)
 - [Going further](#going-further)
 
 ## Usage
@@ -51,7 +52,7 @@ Schedule for each module is shown below👇 Make sure you complete the respectiv
 3. [`Arrays and Hashes`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/04_arrays_and_hashes.rb) & [`Blocks and Sorting`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/05_methods_and_blocks.rb) Tuesday, February 2nd
 4. [`Hashes and Symbols`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/06_hashes_and_symbols.rb) Thursday, February 4th
 5. [`Refactoring`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/07_refactoring.rb) & [`Procs and Lambdas`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/08_procs_and_lambdas.rb) Tuesday, February 9th
-6. [`Object-Oriented Programming, Part 1`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/09_oop.rb) & [`Object-Oriented Programming, Part 2`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/10_oop.rb) Thursday, February 11th
+6. [`Object-Oriented Programming, Part 1`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/09_oop.rb) & [`Part 2`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/10_oop.rb) Thursday, February 11th
 
 ## Typical session
 
@@ -74,6 +75,8 @@ We will be distributing a certificate of completion to those who:
 - Complete 100% of the Codecademy track
 
 After the last lecture on Thursday, February 11th, we will ask you to submit your Codecademy username to confirm completion of the Ruby track.
+
+![](https://github.com/lewagonjapan/programming4everybody/raw/january-2021/images/certificate.jpg)
 
 ## Going further
 
