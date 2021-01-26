@@ -76,13 +76,13 @@ We will be distributing a certificate of completion to those who:
 
 After the last lecture on Thursday, February 11th, we will ask you to submit your Codecademy username to confirm completion of the Ruby track.
 
-![](https://github.com/lewagonjapan/programming4everybody/raw/january-2021/images/certificate.jpg)
+![](https://github.com/lewagonjapan/programming4everybody/raw/january-2021/images/certificate-v2.jpg)
 
 ## Going further
 
 Can't wait to know more about programming? **[Apply to Le Wagon Tokyo](http://www.lewagon.com/tokyo/apply)**, and learn how to build the app of your dreams with us! 🚀
 
-By completing this course, **you get a special 50,000¥ off the next Tokyo courses tuition** starting on **April 12th, 2021** for our full-time bootcamp, and March 27th, 2021 for our part-time bootcamp! 🇯🇵
+By completing this course, **you get a special 50,000¥ off the next Tokyo courses tuition** starting on **April 12th, 2021** for our full-time bootcamp, and **March 27th, 2021** for our part-time bootcamp! 🇯🇵
 
 Applications are open for our next batches, check out the dates on our website or get in touch with Sylvain.
 
