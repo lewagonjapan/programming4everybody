@@ -77,5 +77,5 @@ Applications are open for our next batches, check out the dates on our website o
 
 You can also follow us on [Meetup](https://www.meetup.com/Le-Wagon-Tokyo-Coding-Station/), [Facebook](https://www.facebook.com/lewagontokyo), [Instagram](https://www.instagram.com/lewagontokyo), [Twitter](https://twitter.com/LeWagonTokyo) or [LinkedIn](https://www.linkedin.com/showcase/18655908/) and stay involved in our amazing community 🤩
 
-![](https://github.com/lewagonjapan/programming4everybody/raw/master/images/tokyo310.jpg)
+![](https://github.com/lewagonjapan/programming4everybody/raw/master/images/IMG_2547.JPG)
 # programming4everybody
