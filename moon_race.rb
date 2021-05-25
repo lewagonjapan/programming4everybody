@@ -1,24 +1,26 @@
+def roll_dice
+  rand(1..6)
+end
+
 # Pseudo-code
+# welcome the user to the game
+# quick explanation of the rules
+# asked the user for the name
+# get the name from the user
+# set opponent name
+# set the user && opponent's starting position
+# user_position = 0
+# opponent_position = 0
 
-# Welcome user to the game (puts)
-# Ask the user for their name (puts)
-# user_name = gets.chomp // string
+# start the loop (until ... >= 10)
+# for the user ->
+#  get random number from 1..6
+#  add that to the position
+#  puts the new position
+# for the oppponent ->
+#  get random number from 1..6
+#  add that to the position
+#  puts the new position
+# end the loop
 
-# You are playing against: (puts a random name)
-# comp_name = 'Sylvain'
-
-# create a method
-# def dice_roll
-  # rand(1..6)
-# end
-
-# loop until someone wins (user_score or comp_score >= 10)
-  # puts 'Rolling the dicee...'
-  # user_score and increment by dice_roll
-  # display the users new roll
-  # display the users new score
-  # comp_score and increment by dice_roll
-  # display the comp new roll
-  # display the comp new score
-#
-# display who won
+# display the winner of the race
