@@ -116,12 +116,11 @@ market_items = {
   'sweet potato' => 100
 }
 
-# alternative
-# [
-#   { name: 'mango', price: 800 },
-#   { name: 'apple', price: 300 },
-#   { name: 'pear', price: 500 }
-# ]
+# next level
+# market_items = {
+#   'mango' => { price: 100, quantity: 100 },
+#   'apple' => { price: 300, quantity: 50 }
+# }
 
 cart = Hash.new(0)
 # example_cart
@@ -167,6 +166,11 @@ end
 puts "--------Bill-------"
 puts "Total: ¥#{total}"
 
-# 3b. Ask the user for the quantity
-# 3d. Store the quantity in a variable
-# 6. Loop -> Continue asking for items, until 'checkout'
+# 0. Ask the user for the quantity
+# 1. Store the quantity in a variable
+# 2. Loop -> Continue asking for items, until 'checkout'
+# 3. Refactor the store to add quantities
+# market_items = {
+#   'carrots' => { price: 100, quantity: 100 }
+# }
+# 4. Update the quantity left in the store
