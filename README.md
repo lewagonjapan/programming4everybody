@@ -1,5 +1,7 @@
 ## Welcome to Programming for Everybody - Season 6!
 
+Programming for Everybody is Le Wagon Tokyo's **free** programming foundations course aimed at providing participants an understanding of core programming notions and basic Ruby syntax. It is the 6th season of this free webinar series, and over 500 participants joined our previous 5 seasons. 🚀
+
 This repository contains all the files you'll see during the webinars of the course Programming for Everybody hosted by [Le Wagon Tokyo](https://www.lewagon.com/tokyo). Welcome aboard! 🎉
 
 #### ⚠️ IMPORTANT
