@@ -1,4 +1,4 @@
-## Welcome to Programming for Everybody - Season 4!
+## Welcome to Programming for Everybody - Season 6!
 
 This repository contains all the files you'll see during the webinars of the course Programming for Everybody hosted by [Le Wagon Tokyo](https://www.lewagon.com/tokyo). Welcome aboard! 🎉
 
@@ -23,7 +23,7 @@ If you don’t have any prior experience, please just follow the session, ask yo
 
 Please star the repository, or just bookmark the page in your favourite browser.
 
-Each Ruby file you see in this repository will be filled by a teacher during the corresponding session. In the [`slides`](https://github.com/lewagonjapan/programming4everybody/tree/january-2021/slides) folder you can see and download the slides we share during our lessons.
+Each Ruby file you see in this repository will be filled by a teacher during the corresponding session. In the [`slides`](https://github.com/lewagonjapan/programming4everybody/tree/july-2021/slides) folder you can see and download the slides we share during our lessons.
 
 ## Setup
 
@@ -38,21 +38,21 @@ First, [create an account on Repl.it](https://repl.it/signup).
 You can use the Ruby console on the right to run quick tests, or create more complex files and execute them from the integrated shell.
 If the shell window is not displaying automatically, open it manually or with the ⌘⇧S shortcut (see the first picture below), and run your test files from there with `ruby test/name_of_the_file.rb`.
 
-![](https://github.com/lewagonjapan/programming4everybody/raw/january-2021/images/repl2.png)
+![](https://github.com/lewagonjapan/programming4everybody/raw/july-2021/images/repl2.png)
 
-![](https://github.com/lewagonjapan/programming4everybody/raw/january-2021/images/repl3.png)
+![](https://github.com/lewagonjapan/programming4everybody/raw/july-2021/images/repl3.png)
 
 ## General overview
 
 Our program has 6 lessons and we follow [Codecademy’s free Ruby track](https://www.codecademy.com/learn/learn-ruby).
 Schedule for each module is shown below👇 Make sure you complete the respective modules **before** each session:
 
-1. [`Introduction to Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/01_introduction.rb) Tuesday, January 26th
-2. [`Control flow in Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/02_control_flow.rb) & [`Looping with Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/03_looping.rb) Thursday, January 28th
-3. [`Arrays and Hashes`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/04_arrays_and_hashes.rb) & [`Blocks and Sorting`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/05_methods_and_blocks.rb) Tuesday, February 2nd
-4. [`Hashes and Symbols`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/06_hashes_and_symbols.rb) Thursday, February 4th
-5. [`Refactoring`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/07_refactoring.rb) & [`Procs and Lambdas`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/08_procs_and_lambdas.rb) Tuesday, February 9th
-6. [`Object-Oriented Programming, Part 1`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/09_oop.rb) & [`Part 2`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/10_oop.rb) Thursday, February 11th
+1. [`Introduction to Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/july-2021/01_introduction.rb) Tuesday, July 27th
+2. [`Control flow in Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/july-2021/02_control_flow.rb) & [`Looping with Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/july-2021/03_looping.rb) Thursday, July 29th
+3. [`Arrays and Hashes`](https://github.com/lewagonjapan/programming4everybody/blob/july-2021/04_arrays_and_hashes.rb) & [`Blocks and Sorting`](https://github.com/lewagonjapan/programming4everybody/blob/july-2021/05_methods_and_blocks.rb) Tuesday, August 3rd
+4. [`Hashes and Symbols`](https://github.com/lewagonjapan/programming4everybody/blob/july-2021/06_hashes_and_symbols.rb) Thursday, August 5th
+5. [`Refactoring`](https://github.com/lewagonjapan/programming4everybody/blob/july-2021/07_refactoring.rb) & [`Procs and Lambdas`](https://github.com/lewagonjapan/programming4everybody/blob/july-2021/08_procs_and_lambdas.rb) Tuesday, August 10th
+6. [`Object-Oriented Programming, Part 1`](https://github.com/lewagonjapan/programming4everybody/blob/july-2021/09_oop.rb) & [`Part 2`](https://github.com/lewagonjapan/programming4everybody/blob/july-2021/10_oop.rb) Thursday, August 12th
 
 ## Typical session
 
@@ -74,15 +74,15 @@ We will be distributing a certificate of completion to those who:
 - Attend ALL six live sessions from start to finish
 - Complete 100% of the Codecademy track
 
-After the last lecture on Thursday, February 11th, we will ask you to submit your Codecademy username to confirm completion of the Ruby track.
+After the last lecture on Thursday, August 12th, we will ask you to submit your Codecademy username to confirm completion of the Ruby track.
 
-![](https://github.com/lewagonjapan/programming4everybody/raw/january-2021/images/certificate-v2.jpg)
+![](https://github.com/lewagonjapan/programming4everybody/raw/july-2021/images/certificate-v2.jpg)
 
 ## Going further
 
 Can't wait to know more about programming? **[Apply to Le Wagon Tokyo](http://www.lewagon.com/tokyo/apply)**, and learn how to build the app of your dreams with us! 🚀
 
-By completing this course, **you get a special 50,000¥ off the next Tokyo courses tuition** starting on **April 12th, 2021** for our full-time bootcamp, and **March 27th, 2021** for our part-time bootcamp! 🇯🇵
+By completing this course, **you get a special 50,000¥ off the next Tokyo courses tuition** starting on **October 4th, 2021** for our full-time bootcamp, and **September 25th, 2021** for our part-time bootcamp! 🇯🇵
 
 Applications are open for our next batches, check out the dates on our website or get in touch with Sylvain.
 
