@@ -15,7 +15,7 @@ market_items = {
 # market_prices = [100, 200, 600, 800, 500]
 
 # CRUD
-# Create
+# Create:
 # hash_name[new_key] = new_value
 market_items['zucchini'] = 200
 # market_items['banana'] = 200
@@ -133,21 +133,20 @@ end
 puts "--------Bill-------"
 puts "Total: ¥#{total}"
 
+# Homework
+# 0. reorganize our cart (make it a hash now)
+#   cart = {
+#     # item => quantity
+#     'pumpkins' => 2
+#   }
+# 1. we want to store the item and the quantity
+# 2. ask the user for the item
+#    if the item exists, then ask how many
 
-# reorganize our cart (make it a hash now)
-# cart = {
-#   # item => quantity
-#   'pumpkins' => 2
-# }
-# we want to store the item and the quantity
-# ask the user for the item
-# if the item exists, then ask how many
-
-# update our bill
-# we have to mulitply the quantity by the price
-# you can itemize bill
-# "kale: 4 x ¥500 = ¥2000"
-# "Total: ¥#{total}"
+# 3. update our bill (iterate over item, quantity)
+# 4. we have to mulitply the quantity by the price
+# 5. you can itemize bill
+#    "kale: 4 x ¥500 = ¥2000"
 
 # next next level
 # reorganize the market_items to store the quantity in the store
