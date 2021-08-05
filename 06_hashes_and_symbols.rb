@@ -148,13 +148,13 @@ puts "Total: ¥#{total}"
 # 5. you can itemize bill
 #    "kale: 4 x ¥500 = ¥2000"
 
-# next next level
-# reorganize the market_items to store the quantity in the store
-# market_items = {
-#   'sweet potatoes' => { price: 100, quantity: 100 }
-# }
-# check that the quanity exists in the store
-# update the quantity in the store
+# ⚠️ Next-next level
+# 6. reorganize the market_items to store the quantity in the store
+#   market_items = {
+#     'sweet potatoes' => { price: 100, quantity: 100 }
+#   }
+# 7. check that the quanity exists in the store
+# 8. update the quantity in the store
 
 
 
