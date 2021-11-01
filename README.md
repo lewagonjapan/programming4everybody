@@ -86,7 +86,7 @@ By completing this course, **you get a special 50,000¥ off the next Tokyo cours
 
 Applications are open for our next batches, check out the dates on our website or get in touch with Sylvain.
 
-Our bootcamps are also eligible for a HelloWork subsidy, which can cover up to 70% of the tuition fees. You can find more details about the subsidy in [this link.](https://www.lewagon.com/blog/tokyo-hellowork-subsidy)
+Our bootcamps are also eligible for a HelloWork subsidy, which can cover up to 70% of the tuition fees. You can find more details about this subsidy in [this link.](https://www.lewagon.com/blog/tokyo-hellowork-subsidy)
 
 You can also follow us on [Meetup](https://www.meetup.com/Le-Wagon-Tokyo-Coding-Station/), [Facebook](https://www.facebook.com/lewagontokyo), [Instagram](https://www.instagram.com/lewagontokyo), [Twitter](https://twitter.com/LeWagonTokyo) or [LinkedIn](https://www.linkedin.com/showcase/18655908/) and stay involved in our amazing community 🤩
 
