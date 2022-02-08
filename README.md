@@ -76,7 +76,7 @@ We will be distributing a certificate of completion to those who:
 
 After the last lecture on Thursday, February 11th, we will ask you to submit your Codecademy username to confirm completion of the Ruby track.
 
-![](https://github.com/lewagonjapan/programming4everybody/raw/feb-2022/images/certificate-v2.jpg)
+![](https://github.com/lewagonjapan/programming4everybody/raw/january-2021/images/certificate-v2.jpg)
 
 ## Going further
 
