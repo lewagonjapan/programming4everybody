@@ -56,9 +56,9 @@ Schedule for each module is shown below👇 Make sure you complete the respectiv
 
 ## Typical session
 
-- _7:00-8:00pm JST_ **Live session** on Zoom with Le Wagon's teachers showing lots of live-demos to help you understand the concepts using practical examples
-- _8:00-8:15pm JST_ **Q&A session** where you'll be able to ask the teachers any question you might have for a live help
-- _8:15pm-?_ **Keep coding!** Use [the Slack workspace](https://le-wagon-tokyo.slack.com) to find a buddy and work with him, interact with other classmates, or just send a funny gif 🙈
+- _7:00-8:15pm JST_ **Live session** on Zoom with Le Wagon's teachers showing lots of live-demos to help you understand the concepts using practical examples
+- _8:15-8:30pm JST_ **Q&A session** where you'll be able to ask the teachers any question you might have for a live help
+- _8:30pm-?_ **Keep coding!** Use [the Slack workspace](https://le-wagon-tokyo.slack.com) to find a buddy and work with him, interact with other classmates, or just send a funny gif 🙈
 
 Some sessions might last longer than 1h15 depending on the Q&A part.
 For each session, a private Zoom link will be shared on the course Slack channel. The Zoom meetings and Slack workspace are **private**, and only authorised participants can access them 🔒
