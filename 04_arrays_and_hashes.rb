@@ -68,3 +68,20 @@ p le_wagon_team
 # Two dimensional arrays
 array = [[1, 2] ,[3, 4] ,[5, 6]] # Array of 3 arrays
 puts array.last  # => [5, 6]
+
+
+# CRUD practice with Arrays
+market_items = ['burger', 'roast chicken', 'sushi', 'oreos', 'french fries']
+# Create
+# market_items.push('apple')
+market_items << 'apple'
+
+# Read
+market_items[1]
+
+# Update
+market_items[1] = 'grilled chicken'
+
+# Delete
+market_items.delete('sushi')
+market_items.delete_at(0)
