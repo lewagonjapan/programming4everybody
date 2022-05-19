@@ -139,3 +139,19 @@ puts "¥#{total}"
 # market_items = {
 #   'burger' => { price: 500, availibility: 5 },
 # }
+
+# > Which item? ('quit' to checkout)
+# > kiwi
+# > How many?
+# > 2
+# > Which item? ('quit' to checkout)
+# > kiwi
+# > How many?
+# > 4
+# > Sorry, there are only 3 kiwis left..
+# > [...]
+# > -------BILL---------
+# > kiwi: 2 X ¥1.25 = ¥2.5
+# > mango: 3 X ¥4 = ¥12
+# > TOTAL: ¥14.5
+# > --------------------
