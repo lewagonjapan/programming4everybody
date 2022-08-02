@@ -82,7 +82,7 @@ After the last lecture on Thursday, February 11th, we will ask you to submit you
 
 Can't wait to know more about programming? **[Apply to Le Wagon Tokyo](http://www.lewagon.com/tokyo/apply)**, and learn how to build the app of your dreams with us! 🚀
 
-By completing this course, **you get a special 50,000¥ off the next Tokyo courses tuition** starting on **September 24th, 2022** for our full-time bootcamp, and **October 3rd, 2022** for our part-time bootcamp! 🇯🇵
+By completing this course, **you get a special 50,000¥ off the next Tokyo courses tuition** starting on **September 24th, 2022** for our part-time bootcamp, and **October 3rd, 2022** for our full-time bootcamp! 🇯🇵
 
 Applications are open for our next batches, check out the dates on our website or get in touch with Sylvain.
 
