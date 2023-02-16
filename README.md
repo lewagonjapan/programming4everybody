@@ -70,10 +70,10 @@ The most successful students during our previous sessions asked a lot of questio
 
 We will be distributing a certificate of completion to those who:
 
-- Attend ALL six live sessions from start to finish
+- Attend ALL five live sessions from start to finish
 - Complete 100% of the Codecademy track
 
-After the last lecture on Thursday, February 11th, we will ask you to submit your Codecademy username to confirm completion of the Ruby track.
+After the last lecture on Thursday, March 2nd, we will ask you to submit your Codecademy username to confirm completion of the Ruby track.
 
 ![](https://github.com/lewagonjapan/programming4everybody/raw/january-2021/images/certificate-v2.jpg)
 
