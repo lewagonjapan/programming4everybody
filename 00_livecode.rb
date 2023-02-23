@@ -29,3 +29,4 @@ end
 
 # Print the resulting  array of prices
 p prices
+
