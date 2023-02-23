@@ -11,7 +11,7 @@
 
 # p full_name
 
-# Defined method - method definition
+# Defined method - method  definition
 def beautiful_name(first_name, last_name)
   cap_fname = first_name.capitalize
   cap_lname = last_name.capitalize

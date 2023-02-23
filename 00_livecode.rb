@@ -27,5 +27,5 @@ prices = parsed_html.search('.price--OX_YW').first(5).map do |element|
   element.text.strip
 end
 
-# Print the resulting array of prices
+# Print the resulting  array of prices
 p prices

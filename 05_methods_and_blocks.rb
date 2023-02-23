@@ -42,7 +42,7 @@ p r_students
 ### Blocks
 # Is defined between do ... end
 
-# multiline if my block has multiples lines
+# multiline if my block has multiples  lines
 students.each do |student|
   puts student
 end
