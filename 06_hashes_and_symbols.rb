@@ -200,5 +200,4 @@ puts "You have #{user_hash['public_repos']} repositories, and #{user_hash['follo
 # students.each_with_index do |student, index|
 #   hash[student] = index  + 11
 # end
-
 # puts hash
