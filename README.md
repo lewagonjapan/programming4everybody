@@ -44,7 +44,7 @@ If the shell window is not displaying automatically, open it manually or with th
 
 ## General overview
 
-Our program has 6 lessons and we follow [Codecademy’s free Ruby track](https://www.codecademy.com/learn/learn-ruby).
+Our program has 5 lessons and we follow [Codecademy’s free Ruby track](https://www.codecademy.com/learn/learn-ruby).
 Schedule for each module is shown below👇 Make sure you complete the respective modules **before** each session:
 
 1. [`Introduction to Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/july-2023/01_introduction.rb) Tuesday, July 25th
