@@ -51,6 +51,7 @@ p start_with_s?('Sergio')
 # ==========================
 ### LIVE CODE
 
+# https://www.wikihow.com/Find-Your-Lucky-Numbers-in-Numerology
 # create a method
 # take in an argument
 # argument is going to be the birthday
