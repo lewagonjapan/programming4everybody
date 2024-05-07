@@ -1,4 +1,4 @@
-## Welcome to Programming for Everybody - Season 16!
+## Welcome to Programming for Everybody - Season 17!
 
 Over the past 4 years, we've welcomed **more than 1,000 participants** for this free Programming for Everybody webinar series. Now, it's your turn 😎 
 
