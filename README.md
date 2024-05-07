@@ -1,4 +1,6 @@
-## Welcome to Programming for Everybody - Season 4!
+## Welcome to Programming for Everybody - Season 16!
+
+Over the past 4 years, we've welcomed **more than 1,000 participants** for this free Programming for Everybody webinar series. Now, it's your turn 😎 
 
 This repository contains all the files you'll see during the webinars of the course Programming for Everybody hosted by [Le Wagon Tokyo](https://www.lewagon.com/tokyo). Welcome aboard! 🎉
 
@@ -23,7 +25,7 @@ If you don’t have any prior experience, please just follow the session, ask yo
 
 Please star the repository, or just bookmark the page in your favourite browser.
 
-Each Ruby file you see in this repository will be filled by a teacher during the corresponding session. In the [`slides`](https://github.com/lewagonjapan/programming4everybody/tree/january-2021/slides) folder you can see and download the slides we share during our lessons.
+Each Ruby file you see in this repository will be filled by a teacher during the corresponding session. In the [`slides`](https://github.com/lewagonjapan/programming4everybody/tree/may-2024/slides) folder you can see and download the slides we share during our lessons.
 
 ## Setup
 
@@ -47,18 +49,17 @@ If the shell window is not displaying automatically, open it manually or with th
 Our program has 6 lessons and we follow [Codecademy’s free Ruby track](https://www.codecademy.com/learn/learn-ruby).
 Schedule for each module is shown below👇 Make sure you complete the respective modules **before** each session:
 
-1. [`Introduction to Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/01_introduction.rb) Tuesday, January 26th
-2. [`Control flow in Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/02_control_flow.rb) & [`Looping with Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/03_looping.rb) Thursday, January 28th
-3. [`Arrays and Hashes`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/04_arrays_and_hashes.rb) & [`Blocks and Sorting`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/05_methods_and_blocks.rb) Tuesday, February 2nd
-4. [`Hashes and Symbols`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/06_hashes_and_symbols.rb) Thursday, February 4th
-5. [`Refactoring`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/07_refactoring.rb) & [`Procs and Lambdas`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/08_procs_and_lambdas.rb) Tuesday, February 9th
-6. [`Object-Oriented Programming, Part 1`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/09_oop.rb) & [`Part 2`](https://github.com/lewagonjapan/programming4everybody/blob/january-2021/10_oop.rb) Thursday, February 11th
+1. [`Introduction to Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/may-2024/01_introduction.rb) Tuesday, May 7th
+2. [`Control flow in Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/may-2024/02_control_flow.rb) & [`Looping with Ruby`](https://github.com/lewagonjapan/programming4everybody/blob/january-2024/03_looping.rb) Thursday, May 9th
+3. [`Arrays and Hashes`](https://github.com/lewagonjapan/programming4everybody/blob/may-2024/04_arrays_and_hashes.rb) & [`Blocks and Sorting`](https://github.com/lewagonjapan/programming4everybody/blob/may-2024/05_methods_and_blocks.rb) Tuesday, May 14th
+4. [`Hashes and Symbols`](https://github.com/lewagonjapan/programming4everybody/blob/may-2024/06_hashes_and_symbols.rb) Thursday, May 16th
+5. [`Object-Oriented Programming, Part 1`](https://github.com/lewagonjapan/programming4everybody/blob/may-2024/09_oop.rb) & [`Part 2`](https://github.com/lewagonjapan/programming4everybody/blob/may-2024/10_oop.rb) Tuesday, May 21st
 
 ## Typical session
 
-- _7:00-8:00pm JST_ **Live session** on Zoom with Le Wagon's teachers showing lots of live-demos to help you understand the concepts using practical examples
-- _8:00-8:15pm JST_ **Q&A session** where you'll be able to ask the teachers any question you might have for a live help
-- _8:15pm-?_ **Keep coding!** Use [the Slack workspace](https://le-wagon-tokyo.slack.com) to find a buddy and work with him, interact with other classmates, or just send a funny gif 🙈
+- _7:00-8:15pm JST_ **Live session** on Zoom with Le Wagon's teachers showing lots of live-demos to help you understand the concepts using practical examples
+- _8:15-8:30pm JST_ **Q&A session** where you'll be able to ask the teachers any question you might have for a live help
+- _8:30pm-?_ **Keep coding!** Use [the Slack workspace](https://le-wagon-tokyo.slack.com) to find a buddy and work with him, interact with other classmates, or just send a funny gif 🙈
 
 Some sessions might last longer than 1h15 depending on the Q&A part.
 For each session, a private Zoom link will be shared on the course Slack channel. The Zoom meetings and Slack workspace are **private**, and only authorised participants can access them 🔒
@@ -71,10 +72,10 @@ The most successful students during our previous sessions asked a lot of questio
 
 We will be distributing a certificate of completion to those who:
 
-- Attend ALL six live sessions from start to finish
+- Attend ALL five live sessions from start to finish
 - Complete 100% of the Codecademy track
 
-After the last lecture on Thursday, February 11th, we will ask you to submit your Codecademy username to confirm completion of the Ruby track.
+After the last lecture on Thursday, May 21st, we will ask you to submit your Codecademy username to confirm completion of the Ruby track.
 
 ![](https://github.com/lewagonjapan/programming4everybody/raw/january-2021/images/certificate-v2.jpg)
 
@@ -82,7 +83,9 @@ After the last lecture on Thursday, February 11th, we will ask you to submit you
 
 Can't wait to know more about programming? **[Apply to Le Wagon Tokyo](http://www.lewagon.com/tokyo/apply)**, and learn how to build the app of your dreams with us! 🚀
 
-By completing this course, **you get a special 50,000¥ off the next Tokyo courses tuition** starting on **April 12th, 2021** for our full-time bootcamp, and **March 27th, 2021** for our part-time bootcamp! 🇯🇵
+By completing this course, **you get a special 50,000¥ off the next Tokyo courses tuition** starting on **April 1st, 2024** for our full-time bootcamp, and **September 21st, 2024** for our part-time bootcamp! 🇯🇵
+(Please note that this discount cannot be combined with other discounts or with the HelloWork subsidy 🙏)
+
 
 Applications are open for our next batches, check out the dates on our website or get in touch with Sylvain.
 
