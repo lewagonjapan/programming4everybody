@@ -1,4 +1,4 @@
-## Welcome to Programming for Everybody - Season 4!
+## Welcome to Programming for Everybody - Season 18!
 
 This repository contains all the files you'll see during the webinars of the course Programming for Everybody hosted by [Le Wagon Tokyo](https://www.lewagon.com/tokyo). Welcome aboard! 🎉
 
