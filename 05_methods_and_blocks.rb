@@ -62,9 +62,34 @@ p greeting
 add_bangs!(greeting)
 p greeting
 
+# ============== Live Code ================
+# Disclaimer : Advanced Livecode
 
+# Scrape rakuten website for slipper prices
+# 1- be able to open the rakuten page
+# 2- understand the structure the page (HTML)
+# 3- find the the element in the html that hold the price
+# 4- extract the price
 
+# Gem / package to be able to open a webpage
+require 'open-uri'
 
+# Gem / package to parse html into rubi object
+require 'nokogiri'
+
+# Get the page html string using open uri
+html = URI.open("https://search.rakuten.co.jp/search/mall/slippers/").read
+
+# Parse the html into ruby objects
+parsed_html = Nokogiri::HTML(html)
+
+# Search inside the parsed html for the prices
+prices = parsed_html.search('.price--OX_YW').first(10).map do |price|
+  price.text.strip
+end
+
+# Display the prices
+p prices
 
 
 
