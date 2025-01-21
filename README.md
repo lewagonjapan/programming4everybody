@@ -1,4 +1,4 @@
-## Welcome to Programming for Everybody
+## Welcome to Programming for Everybody - Season 19!
 This repository contains all the files you'll see during the webinars of the course Programming for Everybody hosted by [Le Wagon Tokyo](https://www.lewagon.com/tokyo). Welcome aboard! 🎉
 
 #### ⚠️ IMPORTANT
@@ -46,17 +46,17 @@ If the shell window is not displaying automatically, open it manually or with th
 Our program has 6 lessons and we follow [Codecademy’s free Ruby track](https://www.codecademy.com/learn/learn-ruby).
 Schedule for each module is shown below👇 Make sure you complete the respective modules **before** each session:
 
-1. Introduction to Ruby
-2. Control flow in Ruby & Looping with Ruby
-3. Arrays and Hashes & Blocks and Sorting
-4. Hashes and Symbols
-5. Object-Oriented Programming, Part 1 & Part 2
+1. Introduction to Ruby - Tuesday, January 21st
+2. Control flow in Ruby & Looping with Ruby - Thursday, January 23rd
+3. Arrays and Hashes & Blocks and Sorting - Tuesday, January 28th
+4. Hashes and Symbols - Thursday, January 30th
+5. Object-Oriented Programming, Part 1 & Part 2 - Tuesday, February 4th
 
 ## Typical session
 
-- _7:00-8:00pm JST_ **Live session** on Zoom with Le Wagon's teachers showing lots of live-demos to help you understand the concepts using practical examples
-- _8:00-8:15pm JST_ **Q&A session** where you'll be able to ask the teachers any question you might have for a live help
-- _8:15pm-?_ **Keep coding!** Use [the Slack workspace](https://le-wagon-tokyo.slack.com) to find a buddy and work with him, interact with other classmates, or just send a funny gif 🙈
+- _7:00-8:15pm JST_ **Live session** on Zoom with Le Wagon's teachers showing lots of live-demos to help you understand the concepts using practical examples
+- _8:15-8:30pm JST_ **Q&A session** where you'll be able to ask the teachers any question you might have for a live help
+- _8:30pm-?_ **Keep coding!** Use [the Slack workspace](https://le-wagon-tokyo.slack.com) to find a buddy and work with him, interact with other classmates, or just send a funny gif 🙈
 
 Some sessions might last longer than 1h15 depending on the Q&A part.
 For each session, a private Zoom link will be shared on the course Slack channel. The Zoom meetings and Slack workspace are **private**, and only authorised participants can access them 🔒
