@@ -1,4 +1,4 @@
-## Welcome to Programming for Everybody
+## Welcome to Programming for Everybody - Season 20!
 This repository contains all the files you'll see during the webinars of the course Programming for Everybody hosted by [Le Wagon Tokyo](https://www.lewagon.com/tokyo). Welcome aboard! 🎉
 
 #### ⚠️ IMPORTANT
@@ -43,7 +43,7 @@ If the shell window is not displaying automatically, open it manually or with th
 
 ## General overview
 
-Our program has 6 lessons and we follow [Codecademy’s free Ruby track](https://www.codecademy.com/learn/learn-ruby).
+Our program has 5 lessons and we follow [Codecademy’s free Ruby track](https://www.codecademy.com/learn/learn-ruby).
 Schedule for each module is shown below👇 Make sure you complete the respective modules **before** each session:
 
 1. Introduction to Ruby
@@ -69,10 +69,10 @@ The most successful students during our previous sessions asked a lot of questio
 
 We will be distributing a certificate of completion to those who:
 
-- Attend ALL six live sessions from start to finish
+- Attend ALL five live sessions from start to finish
 - Complete 100% of the Codecademy track
 
-After the last lecture on Thursday, February 11th, we will ask you to submit your Codecademy username to confirm completion of the Ruby track.
+After the last lecture on Thursday, May 22nd, we will ask you to submit your Codecademy username to confirm completion of the Ruby track.
 
 ![](https://github.com/lewagonjapan/programming4everybody/raw/january-2021/images/certificate-v2.jpg)
 
