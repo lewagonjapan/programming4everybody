@@ -75,7 +75,8 @@ puts "Guess a price between 1 and 10"
 
 users_guess = gets.chomp.to_i # 1
 
-until users_guess == price_to_guess
+# until users_guess == price_to_guess
+while users_guess != price_to_guess
   puts "Try again!"
   print "> "
   users_guess = gets.chomp.to_i
