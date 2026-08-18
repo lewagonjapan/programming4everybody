@@ -1,4 +1,4 @@
-## Welcome to Programming for Everybody
+## Welcome to Programming for Everybody - Season 24!
 This repository contains all the files you'll see during the webinars of the course Programming for Everybody hosted by [Le Wagon Tokyo](https://www.lewagon.com/tokyo). Welcome aboard! 🎉
 
 #### ⚠️ IMPORTANT
@@ -11,7 +11,7 @@ If you don’t have any prior experience, please just follow the session, ask yo
 
 - [Usage](#usage)
 - [Setup](#setup)
-  - [REPL](#repl)
+  - [Github Codespace](#github-codespace)
 - [General overview](#general-overview)
 - [Typical session](#typical-session)
 - [Asking Questions](#asking-questions)
@@ -28,22 +28,17 @@ Each Ruby file you see in this repository will be filled by a teacher during the
 
 **N.B:** This is a free online learning series, and our teachers **won't** be able to help you with your computer configuration. If you are just moving your first steps (you don't know Git, Ruby, what a terminal is, or any of the tools we are using), please just watch the videos and, if you feel confident enough, use a REPL as described below. Want to learn to configure your computer like a pro? **[Do it with us!](#going-further)**
 
-### REPL
+### Github Codespace
 
-You can use a [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) to see and interact with the code we share every session.
+You can use a [Github Codespace](https://github.com/codespaces/) to see and interact with the code we share every session.
 
-First, [create an account on Repl.it](https://repl.it/signup).
+First, [create an account on Github](https://github.com).
 
-You can use the Ruby console on the right to run quick tests, or create more complex files and execute them from the integrated shell.
-If the shell window is not displaying automatically, open it manually or with the ⌘⇧S shortcut (see the first picture below), and run your test files from there with `ruby test/name_of_the_file.rb`.
-
-![](https://github.com/lewagonjapan/programming4everybody/raw/january-2021/images/repl2.png)
-
-![](https://github.com/lewagonjapan/programming4everybody/raw/january-2021/images/repl3.png)
+You can then create a Codespace, which will generate an online IDE (Integrated Development Environment) where you can easily write and run code, without having to set up your computer.
 
 ## General overview
 
-Our program has 6 lessons and we follow [Codecademy’s free Ruby track](https://www.codecademy.com/learn/learn-ruby).
+Our program has 5 lessons and we follow [Codecademy’s free Ruby track](https://www.codecademy.com/learn/learn-ruby).
 Schedule for each module is shown below👇 Make sure you complete the respective modules **before** each session:
 
 1. Introduction to Ruby
@@ -63,16 +58,16 @@ For each session, a private Zoom link will be shared on the course Slack channel
 
 ## Asking Questions
 
-The most successful students during our previous sessions asked a lot of questions! For that purpose, we set up a #codecademy-questions channel on Slack - Don't hesitate to use it 😉
+The most successful students during our previous sessions asked a lot of questions! Don't hesitate to ask and collaborate in your channel `#batch-ruby-08-26`
 
 ## Certificate
 
 We will be distributing a certificate of completion to those who:
 
-- Attend ALL six live sessions from start to finish
+- Attend ALL five live sessions from start to finish
 - Complete 100% of the Codecademy track
 
-After the last lecture on Thursday, February 11th, we will ask you to submit your Codecademy username to confirm completion of the Ruby track.
+After the last lecture on Tuesday, September 1st, we will ask you to submit your Codecademy username to confirm completion of the Ruby track.
 
 ![](https://github.com/lewagonjapan/programming4everybody/raw/january-2021/images/certificate-v2.jpg)
 
