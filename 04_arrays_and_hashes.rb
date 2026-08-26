@@ -119,10 +119,15 @@ require "open-uri"
 # import a module / package / gem to parse HTML
 require "nokogiri"
 
+# Open the webapage using ruby
 html = URI.open("https://search.rakuten.co.jp/search/mall/pillow").read
 
+# Pstse the HTML into ruby object
+# parsing is the action of transforming a data type into another
 parsed_html = Nokogiri::HTML(html)
 
+# Play with the result since now ruby can understand the html string
+# Search for the elements we are looking for
 parsed_html.search(".price--3zUvK").each do |price|
   puts price.text.strip
 end
